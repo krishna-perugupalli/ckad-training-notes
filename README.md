@@ -1,1 +1,1 @@
-# ckad-training-notes
+# CKAD training notes
